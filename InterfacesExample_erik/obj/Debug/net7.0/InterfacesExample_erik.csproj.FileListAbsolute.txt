@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\bin\Debug\net7.0\InterfacesExample_erik.exe
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\bin\Debug\net7.0\InterfacesExample_erik.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\bin\Debug\net7.0\InterfacesExample_erik.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\bin\Debug\net7.0\InterfacesExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\bin\Debug\net7.0\InterfacesExample_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\refint\InterfacesExample_erik.dll
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\InterfacesExample_erik.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\InterfacesExample_erik\InterfacesExample_erik\obj\Debug\net7.0\ref\InterfacesExample_erik.dll
